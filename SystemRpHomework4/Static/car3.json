@@ -1,0 +1,1502 @@
+[
+  {
+    "Model": "9-5",
+    "Marka": "Saab",
+    "Year": 2007
+  },
+  {
+    "Model": "Sonata",
+    "Marka": "Hyundai",
+    "Year": 2004
+  },
+  {
+    "Model": "GS",
+    "Marka": "Lexus",
+    "Year": 2000
+  },
+  {
+    "Model": "Silverado 3500",
+    "Marka": "Chevrolet",
+    "Year": 2009
+  },
+  {
+    "Model": "C-MAX Hybrid",
+    "Marka": "Ford",
+    "Year": 2013
+  },
+  {
+    "Model": "Electra",
+    "Marka": "Buick",
+    "Year": 1986
+  },
+  {
+    "Model": "XL7",
+    "Marka": "Suzuki",
+    "Year": 2007
+  },
+  {
+    "Model": "Versa",
+    "Marka": "Nissan",
+    "Year": 2009
+  },
+  {
+    "Model": "Envoy XL",
+    "Marka": "GMC",
+    "Year": 2006
+  },
+  {
+    "Model": "Pathfinder",
+    "Marka": "Nissan",
+    "Year": 2012
+  },
+  {
+    "Model": "Q",
+    "Marka": "Infiniti",
+    "Year": 2005
+  },
+  {
+    "Model": "Protege",
+    "Marka": "Mazda",
+    "Year": 2001
+  },
+  {
+    "Model": "G35",
+    "Marka": "Infiniti",
+    "Year": 2006
+  },
+  {
+    "Model": "Flex",
+    "Marka": "Ford",
+    "Year": 2009
+  },
+  {
+    "Model": "Diablo",
+    "Marka": "Lamborghini",
+    "Year": 1991
+  },
+  {
+    "Model": "Rabbit",
+    "Marka": "Volkswagen",
+    "Year": 2007
+  },
+  {
+    "Model": "SRX",
+    "Marka": "Cadillac",
+    "Year": 2011
+  },
+  {
+    "Model": "Thunderbird",
+    "Marka": "Ford",
+    "Year": 1958
+  },
+  {
+    "Model": "Galant",
+    "Marka": "Mitsubishi",
+    "Year": 2005
+  },
+  {
+    "Model": "Camry",
+    "Marka": "Toyota",
+    "Year": 1999
+  },
+  {
+    "Model": "SL-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 2002
+  },
+  {
+    "Model": "Grand Voyager",
+    "Marka": "Plymouth",
+    "Year": 1993
+  },
+  {
+    "Model": "Quest",
+    "Marka": "Nissan",
+    "Year": 1993
+  },
+  {
+    "Model": "H2 SUV",
+    "Marka": "Hummer",
+    "Year": 2006
+  },
+  {
+    "Model": "L-Series",
+    "Marka": "Saturn",
+    "Year": 2002
+  },
+  {
+    "Model": "Tahoe",
+    "Marka": "Chevrolet",
+    "Year": 2011
+  },
+  {
+    "Model": "Rodeo Sport",
+    "Marka": "Isuzu",
+    "Year": 2003
+  },
+  {
+    "Model": "Tribute",
+    "Marka": "Mazda",
+    "Year": 2010
+  },
+  {
+    "Model": "X3",
+    "Marka": "BMW",
+    "Year": 2009
+  },
+  {
+    "Model": "Park Avenue",
+    "Marka": "Buick",
+    "Year": 1997
+  },
+  {
+    "Model": "Forte",
+    "Marka": "Kia",
+    "Year": 2012
+  },
+  {
+    "Model": "Bronco",
+    "Marka": "Ford",
+    "Year": 1986
+  },
+  {
+    "Model": "Aerostar",
+    "Marka": "Ford",
+    "Year": 1988
+  },
+  {
+    "Model": "612 Scaglietti",
+    "Marka": "Ferrari",
+    "Year": 2006
+  },
+  {
+    "Model": "S-Series",
+    "Marka": "Saturn",
+    "Year": 1996
+  },
+  {
+    "Model": "GLI",
+    "Marka": "Volkswagen",
+    "Year": 2009
+  },
+  {
+    "Model": "V8",
+    "Marka": "Audi",
+    "Year": 1991
+  },
+  {
+    "Model": "Aspire",
+    "Marka": "Ford",
+    "Year": 1994
+  },
+  {
+    "Model": "Legacy",
+    "Marka": "Subaru",
+    "Year": 2000
+  },
+  {
+    "Model": "XC60",
+    "Marka": "Volvo",
+    "Year": 2010
+  },
+  {
+    "Model": "Voyager",
+    "Marka": "Plymouth",
+    "Year": 1995
+  },
+  {
+    "Model": "DB9",
+    "Marka": "Aston Martin",
+    "Year": 2005
+  },
+  {
+    "Model": "M",
+    "Marka": "Infiniti",
+    "Year": 2006
+  },
+  {
+    "Model": "Ram 2500",
+    "Marka": "Dodge",
+    "Year": 2007
+  },
+  {
+    "Model": "Sebring",
+    "Marka": "Chrysler",
+    "Year": 2009
+  },
+  {
+    "Model": "CLS-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 2010
+  },
+  {
+    "Model": "Quattro",
+    "Marka": "Audi",
+    "Year": 1985
+  },
+  {
+    "Model": "Mystique",
+    "Marka": "Mercury",
+    "Year": 1999
+  },
+  {
+    "Model": "Ram Van 2500",
+    "Marka": "Dodge",
+    "Year": 1995
+  },
+  {
+    "Model": "A4",
+    "Marka": "Audi",
+    "Year": 1998
+  },
+  {
+    "Model": "Tracker",
+    "Marka": "Chevrolet",
+    "Year": 1998
+  },
+  {
+    "Model": "Sierra 2500",
+    "Marka": "GMC",
+    "Year": 2006
+  },
+  {
+    "Model": "Aspen",
+    "Marka": "Chrysler",
+    "Year": 2007
+  },
+  {
+    "Model": "Prowler",
+    "Marka": "Plymouth",
+    "Year": 1997
+  },
+  {
+    "Model": "Grand Voyager",
+    "Marka": "Plymouth",
+    "Year": 1995
+  },
+  {
+    "Model": "Impreza",
+    "Marka": "Subaru",
+    "Year": 2008
+  },
+  {
+    "Model": "Matrix",
+    "Marka": "Toyota",
+    "Year": 2005
+  },
+  {
+    "Model": "Escalade",
+    "Marka": "Cadillac",
+    "Year": 2008
+  },
+  {
+    "Model": "F150",
+    "Marka": "Ford",
+    "Year": 2010
+  },
+  {
+    "Model": "MPV",
+    "Marka": "Mazda",
+    "Year": 1994
+  },
+  {
+    "Model": "850",
+    "Marka": "Volvo",
+    "Year": 1994
+  },
+  {
+    "Model": "Freestar",
+    "Marka": "Ford",
+    "Year": 2003
+  },
+  {
+    "Model": "Expedition",
+    "Marka": "Ford",
+    "Year": 2005
+  },
+  {
+    "Model": "Astra",
+    "Marka": "Saturn",
+    "Year": 2009
+  },
+  {
+    "Model": "C-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 2009
+  },
+  {
+    "Model": "Prius",
+    "Marka": "Toyota",
+    "Year": 2007
+  },
+  {
+    "Model": "Swift",
+    "Marka": "Suzuki",
+    "Year": 2004
+  },
+  {
+    "Model": "Passport",
+    "Marka": "Honda",
+    "Year": 1994
+  },
+  {
+    "Model": "Neon",
+    "Marka": "Dodge",
+    "Year": 1996
+  },
+  {
+    "Model": "Contour",
+    "Marka": "Ford",
+    "Year": 1996
+  },
+  {
+    "Model": "6 Series",
+    "Marka": "BMW",
+    "Year": 2012
+  },
+  {
+    "Model": "Celica",
+    "Marka": "Toyota",
+    "Year": 1998
+  },
+  {
+    "Model": "944",
+    "Marka": "Porsche",
+    "Year": 1988
+  },
+  {
+    "Model": "Azera",
+    "Marka": "Hyundai",
+    "Year": 2011
+  },
+  {
+    "Model": "Grand Cherokee",
+    "Marka": "Jeep",
+    "Year": 1996
+  },
+  {
+    "Model": "X6",
+    "Marka": "BMW",
+    "Year": 2011
+  },
+  {
+    "Model": "Tracer",
+    "Marka": "Mercury",
+    "Year": 1999
+  },
+  {
+    "Model": "F250",
+    "Marka": "Ford",
+    "Year": 1997
+  },
+  {
+    "Model": "RS4",
+    "Marka": "Audi",
+    "Year": 2008
+  },
+  {
+    "Model": "GTO",
+    "Marka": "Mitsubishi",
+    "Year": 1992
+  },
+  {
+    "Model": "Countach",
+    "Marka": "Lamborghini",
+    "Year": 1987
+  },
+  {
+    "Model": "Bonneville",
+    "Marka": "Pontiac",
+    "Year": 1966
+  },
+  {
+    "Model": "Range Rover",
+    "Marka": "Land Rover",
+    "Year": 1993
+  },
+  {
+    "Model": "Caravan",
+    "Marka": "Dodge",
+    "Year": 2004
+  },
+  {
+    "Model": "Land Cruiser",
+    "Marka": "Toyota",
+    "Year": 2008
+  },
+  {
+    "Model": "Suburban 2500",
+    "Marka": "Chevrolet",
+    "Year": 2002
+  },
+  {
+    "Model": "LS",
+    "Marka": "Lincoln",
+    "Year": 2000
+  },
+  {
+    "Model": "X3",
+    "Marka": "BMW",
+    "Year": 2005
+  },
+  {
+    "Model": "Escort",
+    "Marka": "Ford",
+    "Year": 2000
+  },
+  {
+    "Model": "Prelude",
+    "Marka": "Honda",
+    "Year": 1998
+  },
+  {
+    "Model": "Eclipse",
+    "Marka": "Mitsubishi",
+    "Year": 1990
+  },
+  {
+    "Model": "Prelude",
+    "Marka": "Honda",
+    "Year": 2001
+  },
+  {
+    "Model": "Galant",
+    "Marka": "Mitsubishi",
+    "Year": 1995
+  },
+  {
+    "Model": "Tracker",
+    "Marka": "Geo",
+    "Year": 1997
+  },
+  {
+    "Model": "E150",
+    "Marka": "Ford",
+    "Year": 2007
+  },
+  {
+    "Model": "GTO",
+    "Marka": "Pontiac",
+    "Year": 1974
+  },
+  {
+    "Model": "Sprinter 2500",
+    "Marka": "Mercedes-Benz",
+    "Year": 2012
+  },
+  {
+    "Model": "Azera",
+    "Marka": "Hyundai",
+    "Year": 2011
+  },
+  {
+    "Model": "Altima",
+    "Marka": "Nissan",
+    "Year": 1994
+  },
+  {
+    "Model": "Fiesta",
+    "Marka": "Ford",
+    "Year": 2013
+  },
+  {
+    "Model": "Sunfire",
+    "Marka": "Pontiac",
+    "Year": 2000
+  },
+  {
+    "Model": "Rondo",
+    "Marka": "Kia",
+    "Year": 2009
+  },
+  {
+    "Model": "Camaro",
+    "Marka": "Chevrolet",
+    "Year": 1970
+  },
+  {
+    "Model": "Grand Vitara",
+    "Marka": "Suzuki",
+    "Year": 2006
+  },
+  {
+    "Model": "Integra",
+    "Marka": "Acura",
+    "Year": 1996
+  },
+  {
+    "Model": "GX",
+    "Marka": "Lexus",
+    "Year": 2011
+  },
+  {
+    "Model": "Impala",
+    "Marka": "Chevrolet",
+    "Year": 2005
+  },
+  {
+    "Model": "V8 Vantage",
+    "Marka": "Aston Martin",
+    "Year": 2009
+  },
+  {
+    "Model": "Riviera",
+    "Marka": "Buick",
+    "Year": 1986
+  },
+  {
+    "Model": "G-Series G10",
+    "Marka": "Chevrolet",
+    "Year": 1995
+  },
+  {
+    "Model": "SL-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 2011
+  },
+  {
+    "Model": "100",
+    "Marka": "Audi",
+    "Year": 1994
+  },
+  {
+    "Model": "Firebird",
+    "Marka": "Pontiac",
+    "Year": 1993
+  },
+  {
+    "Model": "Touareg",
+    "Marka": "Volkswagen",
+    "Year": 2007
+  },
+  {
+    "Model": "Contour",
+    "Marka": "Ford",
+    "Year": 1999
+  },
+  {
+    "Model": "tC",
+    "Marka": "Scion",
+    "Year": 2006
+  },
+  {
+    "Model": "LeSabre",
+    "Marka": "Buick",
+    "Year": 2000
+  },
+  {
+    "Model": "Miata MX-5",
+    "Marka": "Mazda",
+    "Year": 1995
+  },
+  {
+    "Model": "Fleetwood",
+    "Marka": "Cadillac",
+    "Year": 1993
+  },
+  {
+    "Model": "Savana 2500",
+    "Marka": "GMC",
+    "Year": 1998
+  },
+  {
+    "Model": "1500",
+    "Marka": "GMC",
+    "Year": 1997
+  },
+  {
+    "Model": "Sequoia",
+    "Marka": "Toyota",
+    "Year": 2011
+  },
+  {
+    "Model": "LeSabre",
+    "Marka": "Buick",
+    "Year": 1988
+  },
+  {
+    "Model": "1 Series",
+    "Marka": "BMW",
+    "Year": 2012
+  },
+  {
+    "Model": "SL-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 1997
+  },
+  {
+    "Model": "Silverado 2500",
+    "Marka": "Chevrolet",
+    "Year": 2002
+  },
+  {
+    "Model": "Century",
+    "Marka": "Buick",
+    "Year": 1997
+  },
+  {
+    "Model": "Sonata",
+    "Marka": "Hyundai",
+    "Year": 1998
+  },
+  {
+    "Model": "Cherokee",
+    "Marka": "Jeep",
+    "Year": 1994
+  },
+  {
+    "Model": "Thunderbird",
+    "Marka": "Ford",
+    "Year": 1977
+  },
+  {
+    "Model": "Land Cruiser",
+    "Marka": "Toyota",
+    "Year": 2009
+  },
+  {
+    "Model": "CLK-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 2004
+  },
+  {
+    "Model": "CC",
+    "Marka": "Volkswagen",
+    "Year": 2010
+  },
+  {
+    "Model": "164",
+    "Marka": "Alfa Romeo",
+    "Year": 1993
+  },
+  {
+    "Model": "Ram 3500",
+    "Marka": "Dodge",
+    "Year": 2003
+  },
+  {
+    "Model": "Ram Van 3500",
+    "Marka": "Dodge",
+    "Year": 1998
+  },
+  {
+    "Model": "Astro",
+    "Marka": "Chevrolet",
+    "Year": 1995
+  },
+  {
+    "Model": "Sierra 3500",
+    "Marka": "GMC",
+    "Year": 2001
+  },
+  {
+    "Model": "Tracker",
+    "Marka": "Geo",
+    "Year": 1996
+  },
+  {
+    "Model": "Jetta",
+    "Marka": "Volkswagen",
+    "Year": 2008
+  },
+  {
+    "Model": "Laser",
+    "Marka": "Plymouth",
+    "Year": 1991
+  },
+  {
+    "Model": "Econoline E150",
+    "Marka": "Ford",
+    "Year": 1998
+  },
+  {
+    "Model": "Accent",
+    "Marka": "Hyundai",
+    "Year": 2007
+  },
+  {
+    "Model": "F-Series",
+    "Marka": "Ford",
+    "Year": 1993
+  },
+  {
+    "Model": "RSX",
+    "Marka": "Acura",
+    "Year": 2003
+  },
+  {
+    "Model": "S-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 2000
+  },
+  {
+    "Model": "Park Avenue",
+    "Marka": "Buick",
+    "Year": 2003
+  },
+  {
+    "Model": "Fiesta",
+    "Marka": "Ford",
+    "Year": 2013
+  },
+  {
+    "Model": "Bravada",
+    "Marka": "Oldsmobile",
+    "Year": 2004
+  },
+  {
+    "Model": "Tundra",
+    "Marka": "Toyota",
+    "Year": 2008
+  },
+  {
+    "Model": "Yukon XL 2500",
+    "Marka": "GMC",
+    "Year": 2006
+  },
+  {
+    "Model": "Continental",
+    "Marka": "Lincoln",
+    "Year": 2001
+  },
+  {
+    "Model": "M3",
+    "Marka": "BMW",
+    "Year": 1999
+  },
+  {
+    "Model": "Colorado",
+    "Marka": "Chevrolet",
+    "Year": 2007
+  },
+  {
+    "Model": "57",
+    "Marka": "Maybach",
+    "Year": 2011
+  },
+  {
+    "Model": "TL",
+    "Marka": "Acura",
+    "Year": 2007
+  },
+  {
+    "Model": "L-Series",
+    "Marka": "Saturn",
+    "Year": 2003
+  },
+  {
+    "Model": "Escort",
+    "Marka": "Ford",
+    "Year": 1989
+  },
+  {
+    "Model": "Skylark",
+    "Marka": "Buick",
+    "Year": 1992
+  },
+  {
+    "Model": "4Runner",
+    "Marka": "Toyota",
+    "Year": 2003
+  },
+  {
+    "Model": "Galant",
+    "Marka": "Mitsubishi",
+    "Year": 1987
+  },
+  {
+    "Model": "Ridgeline",
+    "Marka": "Honda",
+    "Year": 2011
+  },
+  {
+    "Model": "S10 Blazer",
+    "Marka": "Chevrolet",
+    "Year": 1993
+  },
+  {
+    "Model": "Solara",
+    "Marka": "Toyota",
+    "Year": 1999
+  },
+  {
+    "Model": "Blazer",
+    "Marka": "Chevrolet",
+    "Year": 2004
+  },
+  {
+    "Model": "Legacy",
+    "Marka": "Subaru",
+    "Year": 2012
+  },
+  {
+    "Model": "Camry Hybrid",
+    "Marka": "Toyota",
+    "Year": 2011
+  },
+  {
+    "Model": "Caravan",
+    "Marka": "Dodge",
+    "Year": 2008
+  },
+  {
+    "Model": "Corolla",
+    "Marka": "Toyota",
+    "Year": 2002
+  },
+  {
+    "Model": "Rally Wagon 3500",
+    "Marka": "GMC",
+    "Year": 1992
+  },
+  {
+    "Model": "L-Series",
+    "Marka": "Saturn",
+    "Year": 2001
+  },
+  {
+    "Model": "Grand Am",
+    "Marka": "Pontiac",
+    "Year": 1994
+  },
+  {
+    "Model": "Explorer Sport Trac",
+    "Marka": "Ford",
+    "Year": 2008
+  },
+  {
+    "Model": "LS",
+    "Marka": "Lexus",
+    "Year": 1994
+  },
+  {
+    "Model": "Fleetwood",
+    "Marka": "Cadillac",
+    "Year": 1995
+  },
+  {
+    "Model": "Talon",
+    "Marka": "Eagle",
+    "Year": 1992
+  },
+  {
+    "Model": "Mazdaspeed 3",
+    "Marka": "Mazda",
+    "Year": 2009
+  },
+  {
+    "Model": "4Runner",
+    "Marka": "Toyota",
+    "Year": 2008
+  },
+  {
+    "Model": "Grand Prix",
+    "Marka": "Pontiac",
+    "Year": 1998
+  },
+  {
+    "Model": "Savana 2500",
+    "Marka": "GMC",
+    "Year": 2011
+  },
+  {
+    "Model": "Xterra",
+    "Marka": "Nissan",
+    "Year": 2008
+  },
+  {
+    "Model": "Mazda6",
+    "Marka": "Mazda",
+    "Year": 2006
+  },
+  {
+    "Model": "Sprinter 3500",
+    "Marka": "Mercedes-Benz",
+    "Year": 2011
+  },
+  {
+    "Model": "F150",
+    "Marka": "Ford",
+    "Year": 1994
+  },
+  {
+    "Model": "Sable",
+    "Marka": "Mercury",
+    "Year": 1998
+  },
+  {
+    "Model": "MKX",
+    "Marka": "Lincoln",
+    "Year": 2011
+  },
+  {
+    "Model": "Jetta",
+    "Marka": "Volkswagen",
+    "Year": 1986
+  },
+  {
+    "Model": "Sierra",
+    "Marka": "GMC",
+    "Year": 2012
+  },
+  {
+    "Model": "XC90",
+    "Marka": "Volvo",
+    "Year": 2011
+  },
+  {
+    "Model": "F-Series Super Duty",
+    "Marka": "Ford",
+    "Year": 2008
+  },
+  {
+    "Model": "FF",
+    "Marka": "Ferrari",
+    "Year": 2012
+  },
+  {
+    "Model": "Savana 2500",
+    "Marka": "GMC",
+    "Year": 1998
+  },
+  {
+    "Model": "Integra",
+    "Marka": "Acura",
+    "Year": 1998
+  },
+  {
+    "Model": "Quattroporte",
+    "Marka": "Maserati",
+    "Year": 2009
+  },
+  {
+    "Model": "Intrepid",
+    "Marka": "Dodge",
+    "Year": 2003
+  },
+  {
+    "Model": "Civic Si",
+    "Marka": "Honda",
+    "Year": 2005
+  },
+  {
+    "Model": "Blazer",
+    "Marka": "Chevrolet",
+    "Year": 2000
+  },
+  {
+    "Model": "Armada",
+    "Marka": "Nissan",
+    "Year": 2010
+  },
+  {
+    "Model": "62",
+    "Marka": "Maybach",
+    "Year": 2005
+  },
+  {
+    "Model": "CR-V",
+    "Marka": "Honda",
+    "Year": 2002
+  },
+  {
+    "Model": "Versa",
+    "Marka": "Nissan",
+    "Year": 2010
+  },
+  {
+    "Model": "Sentra",
+    "Marka": "Nissan",
+    "Year": 2004
+  },
+  {
+    "Model": "Rodeo",
+    "Marka": "Isuzu",
+    "Year": 1993
+  },
+  {
+    "Model": "Falcon",
+    "Marka": "Ford",
+    "Year": 1967
+  },
+  {
+    "Model": "SLS AMG",
+    "Marka": "Mercedes-Benz",
+    "Year": 2012
+  },
+  {
+    "Model": "4Runner",
+    "Marka": "Toyota",
+    "Year": 2005
+  },
+  {
+    "Model": "Escalade",
+    "Marka": "Cadillac",
+    "Year": 2009
+  },
+  {
+    "Model": "G",
+    "Marka": "Infiniti",
+    "Year": 1993
+  },
+  {
+    "Model": "S80",
+    "Marka": "Volvo",
+    "Year": 2000
+  },
+  {
+    "Model": "Yukon",
+    "Marka": "GMC",
+    "Year": 1994
+  },
+  {
+    "Model": "S-Type",
+    "Marka": "Jaguar",
+    "Year": 2004
+  },
+  {
+    "Model": "CR-V",
+    "Marka": "Honda",
+    "Year": 2011
+  },
+  {
+    "Model": "Express 1500",
+    "Marka": "Chevrolet",
+    "Year": 2005
+  },
+  {
+    "Model": "612 Scaglietti",
+    "Marka": "Ferrari",
+    "Year": 2006
+  },
+  {
+    "Model": "Ram",
+    "Marka": "Dodge",
+    "Year": 2007
+  },
+  {
+    "Model": "Optima",
+    "Marka": "Kia",
+    "Year": 2001
+  },
+  {
+    "Model": "Ram 1500",
+    "Marka": "Dodge",
+    "Year": 1994
+  },
+  {
+    "Model": "Cabriolet",
+    "Marka": "Volkswagen",
+    "Year": 2000
+  },
+  {
+    "Model": "GTI",
+    "Marka": "Volkswagen",
+    "Year": 2001
+  },
+  {
+    "Model": "Rio5",
+    "Marka": "Kia",
+    "Year": 2008
+  },
+  {
+    "Model": "Intrepid",
+    "Marka": "Dodge",
+    "Year": 1997
+  },
+  {
+    "Model": "Avalanche 1500",
+    "Marka": "Chevrolet",
+    "Year": 2005
+  },
+  {
+    "Model": "62",
+    "Marka": "Maybach",
+    "Year": 2008
+  },
+  {
+    "Model": "Century",
+    "Marka": "Buick",
+    "Year": 1996
+  },
+  {
+    "Model": "Previa",
+    "Marka": "Toyota",
+    "Year": 1992
+  },
+  {
+    "Model": "E350",
+    "Marka": "Ford",
+    "Year": 2007
+  },
+  {
+    "Model": "Corvette",
+    "Marka": "Chevrolet",
+    "Year": 1986
+  },
+  {
+    "Model": "Dakota",
+    "Marka": "Dodge",
+    "Year": 1994
+  },
+  {
+    "Model": "6 Series",
+    "Marka": "BMW",
+    "Year": 2009
+  },
+  {
+    "Model": "Avenger",
+    "Marka": "Dodge",
+    "Year": 1998
+  },
+  {
+    "Model": "Sierra 1500",
+    "Marka": "GMC",
+    "Year": 2006
+  },
+  {
+    "Model": "Quattro",
+    "Marka": "Audi",
+    "Year": 1992
+  },
+  {
+    "Model": "Breeze",
+    "Marka": "Plymouth",
+    "Year": 1998
+  },
+  {
+    "Model": "Fusion",
+    "Marka": "Ford",
+    "Year": 2009
+  },
+  {
+    "Model": "LHS",
+    "Marka": "Chrysler",
+    "Year": 2000
+  },
+  {
+    "Model": "CX-5",
+    "Marka": "Mazda",
+    "Year": 2013
+  },
+  {
+    "Model": "Econoline E350",
+    "Marka": "Ford",
+    "Year": 1993
+  },
+  {
+    "Model": "V70",
+    "Marka": "Volvo",
+    "Year": 2004
+  },
+  {
+    "Model": "Taurus",
+    "Marka": "Ford",
+    "Year": 2012
+  },
+  {
+    "Model": "Milan",
+    "Marka": "Mercury",
+    "Year": 2008
+  },
+  {
+    "Model": "Yukon XL 1500",
+    "Marka": "GMC",
+    "Year": 2012
+  },
+  {
+    "Model": "Regency",
+    "Marka": "Oldsmobile",
+    "Year": 1998
+  },
+  {
+    "Model": "Ranger",
+    "Marka": "Ford",
+    "Year": 1984
+  },
+  {
+    "Model": "A6",
+    "Marka": "Audi",
+    "Year": 1999
+  },
+  {
+    "Model": "Mazdaspeed 3",
+    "Marka": "Mazda",
+    "Year": 2010
+  },
+  {
+    "Model": "Murciélago",
+    "Marka": "Lamborghini",
+    "Year": 2005
+  },
+  {
+    "Model": "Century",
+    "Marka": "Buick",
+    "Year": 1984
+  },
+  {
+    "Model": "Altima",
+    "Marka": "Nissan",
+    "Year": 1998
+  },
+  {
+    "Model": "944",
+    "Marka": "Porsche",
+    "Year": 1987
+  },
+  {
+    "Model": "Ion",
+    "Marka": "Saturn",
+    "Year": 2006
+  },
+  {
+    "Model": "Cooper",
+    "Marka": "MINI",
+    "Year": 2007
+  },
+  {
+    "Model": "Civic",
+    "Marka": "Honda",
+    "Year": 2001
+  },
+  {
+    "Model": "G-Series G30",
+    "Marka": "Chevrolet",
+    "Year": 1993
+  },
+  {
+    "Model": "MX-5",
+    "Marka": "Mazda",
+    "Year": 1990
+  },
+  {
+    "Model": "850",
+    "Marka": "Volvo",
+    "Year": 1995
+  },
+  {
+    "Model": "Estate",
+    "Marka": "Buick",
+    "Year": 1989
+  },
+  {
+    "Model": "Yukon",
+    "Marka": "GMC",
+    "Year": 2008
+  },
+  {
+    "Model": "S2000",
+    "Marka": "Honda",
+    "Year": 2005
+  },
+  {
+    "Model": "SLK-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 2003
+  },
+  {
+    "Model": "A8",
+    "Marka": "Audi",
+    "Year": 2007
+  },
+  {
+    "Model": "Escape",
+    "Marka": "Ford",
+    "Year": 2001
+  },
+  {
+    "Model": "Caprice",
+    "Marka": "Chevrolet",
+    "Year": 1995
+  },
+  {
+    "Model": "Mark VII",
+    "Marka": "Lincoln",
+    "Year": 1992
+  },
+  {
+    "Model": "Mountaineer",
+    "Marka": "Mercury",
+    "Year": 2000
+  },
+  {
+    "Model": "Silhouette",
+    "Marka": "Oldsmobile",
+    "Year": 1992
+  },
+  {
+    "Model": "Town Car",
+    "Marka": "Lincoln",
+    "Year": 2009
+  },
+  {
+    "Model": "Accord",
+    "Marka": "Honda",
+    "Year": 2000
+  },
+  {
+    "Model": "MKX",
+    "Marka": "Lincoln",
+    "Year": 2013
+  },
+  {
+    "Model": "Montero",
+    "Marka": "Mitsubishi",
+    "Year": 1992
+  },
+  {
+    "Model": "599 GTB Fiorano",
+    "Marka": "Ferrari",
+    "Year": 2010
+  },
+  {
+    "Model": "del Sol",
+    "Marka": "Honda",
+    "Year": 1997
+  },
+  {
+    "Model": "Prowler",
+    "Marka": "Chrysler",
+    "Year": 2002
+  },
+  {
+    "Model": "R8",
+    "Marka": "Audi",
+    "Year": 2008
+  },
+  {
+    "Model": "Impala",
+    "Marka": "Chevrolet",
+    "Year": 2008
+  },
+  {
+    "Model": "Neon",
+    "Marka": "Plymouth",
+    "Year": 1997
+  },
+  {
+    "Model": "LX",
+    "Marka": "Lexus",
+    "Year": 2008
+  },
+  {
+    "Model": "Tribeca",
+    "Marka": "Subaru",
+    "Year": 2012
+  },
+  {
+    "Model": "Corolla",
+    "Marka": "Toyota",
+    "Year": 2006
+  },
+  {
+    "Model": "Altima",
+    "Marka": "Nissan",
+    "Year": 1993
+  },
+  {
+    "Model": "9-7X",
+    "Marka": "Saab",
+    "Year": 2006
+  },
+  {
+    "Model": "Caprice",
+    "Marka": "Chevrolet",
+    "Year": 1977
+  },
+  {
+    "Model": "Mirage",
+    "Marka": "Mitsubishi",
+    "Year": 1989
+  },
+  {
+    "Model": "Leone",
+    "Marka": "Subaru",
+    "Year": 1985
+  },
+  {
+    "Model": "Z4",
+    "Marka": "BMW",
+    "Year": 2004
+  },
+  {
+    "Model": "Defender",
+    "Marka": "Land Rover",
+    "Year": 1992
+  },
+  {
+    "Model": "Aztek",
+    "Marka": "Pontiac",
+    "Year": 2003
+  },
+  {
+    "Model": "Cordia",
+    "Marka": "Mitsubishi",
+    "Year": 1984
+  },
+  {
+    "Model": "RX",
+    "Marka": "Lexus",
+    "Year": 1999
+  },
+  {
+    "Model": "Tundra",
+    "Marka": "Toyota",
+    "Year": 2000
+  },
+  {
+    "Model": "Concorde",
+    "Marka": "Chrysler",
+    "Year": 2000
+  },
+  {
+    "Model": "Optima",
+    "Marka": "Kia",
+    "Year": 2005
+  },
+  {
+    "Model": "VUE",
+    "Marka": "Saturn",
+    "Year": 2007
+  },
+  {
+    "Model": "V40",
+    "Marka": "Volvo",
+    "Year": 2001
+  },
+  {
+    "Model": "Verona",
+    "Marka": "Suzuki",
+    "Year": 2005
+  },
+  {
+    "Model": "Impreza",
+    "Marka": "Subaru",
+    "Year": 1997
+  },
+  {
+    "Model": "F350",
+    "Marka": "Ford",
+    "Year": 2012
+  },
+  {
+    "Model": "X5",
+    "Marka": "BMW",
+    "Year": 2013
+  },
+  {
+    "Model": "Monza",
+    "Marka": "Chevrolet",
+    "Year": 1975
+  },
+  {
+    "Model": "Edge",
+    "Marka": "Ford",
+    "Year": 2013
+  },
+  {
+    "Model": "E-Class",
+    "Marka": "Mercedes-Benz",
+    "Year": 1986
+  }
+]

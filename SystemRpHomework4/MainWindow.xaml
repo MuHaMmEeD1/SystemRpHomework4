@@ -1,0 +1,99 @@
+﻿<Window x:Class="SystemRpHomework4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SystemRpHomework4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <ListView Name="carListView" Grid.Row="0" Margin="10" ItemsSource="{Binding cars}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" BorderThickness="1" Margin="5">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Row="0" Grid.Column="0" Content="Model:" FontWeight="Bold"/>
+                            <Label Grid.Row="1" Grid.Column="0" Content="Marka:" FontWeight="Bold"/>
+                            <Label Grid.Row="2" Grid.Column="0" Content="Year:" FontWeight="Bold"/>
+
+                            <Label Grid.Row="0" Grid.Column="1" Content="{Binding Model}" Margin="5"/>
+                            <Label Grid.Row="1" Grid.Column="1" Content="{Binding Marka}" Margin="5"/>
+                            <Label Grid.Row="2" Grid.Column="1" Content="{Binding Yaer}" Margin="5"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+
+            <RadioButton 
+                    
+                Name="SingelRadioButton"
+                
+                Margin="20 0 0 0"
+                Content="Singel"
+                VerticalAlignment="Center" 
+                
+                IsChecked="True"
+                />
+
+
+            <RadioButton 
+         
+                Name="MultiRadioButton"
+                
+                 Margin="20 0 100 0"
+                 Content="MultiRadioButton"
+                 VerticalAlignment="Center"                
+                 />
+
+
+            <Label 
+                Content="Time: "
+                
+                VerticalAlignment="Center"                
+                />
+            
+            <Label 
+                Name="TimerLabel"  
+                
+                Margin="5 0 0 0"
+                 VerticalAlignment="Center"                
+                 />
+
+
+            <Button
+                
+                Name="StartButton"
+                Width="80"
+                Margin="300 10 10 10"
+                Content="Start" Click="StartButton_Click"
+                />
+
+
+
+
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>
